@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testHotspot</string>
+    <string name="toggleHotspotBtnText">Start/Stop</string>
+    <string name="ipText">Se mostrara ip</string>
+</resources>
